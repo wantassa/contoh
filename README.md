@@ -1,0 +1,2 @@
+# contoh
+contoh membuat git
